@@ -1,0 +1,4 @@
+There are two type of header file
+first is compiler defined header file like <iostream>
+and second is user defined header file like you can create your own header file
+condition is your header file must be present in the code directory
